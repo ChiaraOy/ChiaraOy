@@ -43,18 +43,18 @@
 * **Outils BI** : Power BI, Tableau, QuickSight
 * **Versioning** : GitHub, Git
   
-## 🚀 Projets phares 
+## 🚀 Projets  
 
-📊 **Dashboards & Visualisation**
-Retail Sales Insights – Analyse des ventes, segmentation clients, prévisions
-HR Analytics Dashboard – Suivi RH, turnover, performance
+📊 **Dashboards & Visualisation** : [Dashboard-Power-BI](https://github.com/ChiaraOy/Dashboard-Power-BI)
+* **Retail Sales Insights** – Analyse des ventes, segmentation clients, prévisions
+* **HR Analytics Dashboard** – Suivi RH, turnover, performance
 Financial KPI Monitor – Pilotage financier multi-sources
 
-🧱 **Data Engineering**
+🧱 **Data Engineering** : [Data-Engineering-Data-Pipelines](https://github.com/ChiaraOy/Data-Engineering-Data-Pipelines/blob/main/README.md)
 * **Pipeline multi-sources (SQL + Snowflake)** – Normalisation, data quality, reporting
 * **Automatisation Power BI** – Refresh, monitoring, optimisation DAX
   
-🤖 **Machine Learning**
+🤖 **Machine Learning** : [Machine-Learning-Modeling](https://github.com/ChiaraOy/Machine-Learning-Modeling)
 * **Churn Prediction** – Modèle de prédiction + dashboard explicatif
 * **Forecasting** – Prévision de séries temporelles (ARIMA, Prophet)
   
