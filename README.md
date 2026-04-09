@@ -40,7 +40,7 @@
 ## 🛠️ Tech Stack
 * **Langage** : Python, SQL, SAS, R
 * **Cloud** : Azure, AWS, Snowflake
-* **Outils BI** : Power BI, Tableau, QuickSight
+* **Outils BI** : Power BI, Tableau, Google
 * **Versioning** : GitHub, Git
   
 ## 🚀 Projets  
