@@ -4,7 +4,7 @@
 
 🎯 Passionnée par la data, la qualité, la visualisation et la transformation des processus.
 
-💼 4 ans d’expérience en consulting et projets cross-sectoriels.
+💼 4 ans d’expérience.
 
 🚀 Objectif actuel : évoluer vers un rôle de Lead Analyst / Data Referent et contribuer à des projets data à fort impact.
 
@@ -25,7 +25,7 @@
   
 🔹 **Data Engineering**
 * SQL avancé, Python (Pandas, NumPy)
-* Snowflake, Azure, AWS (Cloud Practitioner en préparation)
+* Snowflake, Azure
 * Data quality, structuration multi-sources, automatisation
   
 🔹 **Machine Learning**
